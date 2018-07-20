@@ -75,6 +75,17 @@ ul {
 li {
   margin-bottom: 0.4em; }
 
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
 blockquote {
   font-style: italic;
   margin-left: 1.5em;
