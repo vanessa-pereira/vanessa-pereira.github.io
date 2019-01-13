@@ -4,9 +4,11 @@
  * Project: https://github.com/oxalorg/sakura
  */
 /* Body */
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
 html {
   font-size: 62.5%;
-  font-family: Helvetica; }
+  font-family: "Lato"; }
 
 body {
   font-size: 1.8rem;
@@ -29,7 +31,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
-  font-family: Helvetica, Helvetica, Helvetica;
+  font-family: "Lato", "Lato", "Lato";
   font-weight: 700;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -72,7 +74,7 @@ a {
     border-bottom: 2px solid #4a4a4a; }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Helvetica', 'Helvetica';
+    font-family:'Lato', 'Lato', 'Lato';
     padding: 0px;
     list-style: none;
     font-weight: bold;
