@@ -166,6 +166,17 @@ textarea, select, input[type] {
 input[type="checkbox"]:focus {
   outline: 1px dotted #2c8898; }
 
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #c6c6c6;
+   color: black;
+   text-align: center;
+}
+
 label, legend, fieldset {
   display: block;
   margin-bottom: .5rem;
