@@ -40,7 +40,7 @@ body, html {
   min-height: 400px;
 }
 
-.w3-wide {letter-spacing: 10px;}
+.w3-wide {letter-spacing: 5px;}
 .w3-hover-opacity {cursor: pointer;}
 
 /* Turn off parallax scrolling for tablets and phones */
@@ -50,6 +50,31 @@ body, html {
     min-height: 400px;
   }
 }
+  
+  .video-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%; 
+  overflow: hidden;
+}
+.video-container video {
+  /* Make video to at least 100% wide and tall */
+  min-width: 100%; 
+  min-height: 100%; 
+
+  /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+  width: auto;
+  height: auto;
+
+  /* Center the video */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+  
 </style>
 <body>
 
@@ -89,8 +114,15 @@ body, html {
   <h3 class="w3-center">ABOUT ME</h3>
   <p class="w3-center"><em>I love to learn, everyday.</em></p>
   <p>I decided to do this page to allow everyone to know a bit more about me. My name is Vanessa and I am from Porto, Portugal - the best place in the world (:</p>
-  <center><iframe src="https://player.vimeo.com/video/21698583?color=858585" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/21698583">Uma cidade chamada Porto ( A city called Porto)</a> from <a href="https://vimeo.com/filmesdamente">FilmesDaMente</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+  
+  <div class="video-container">
+    <center>
+    <video>
+    <source src="src="https://player.vimeo.com/video/21698583?color=858585"" type="video/mp4" />
+        </center>
+  </video>
+</div>
+  <center><p><a href="https://vimeo.com/21698583">Uma cidade chamada Porto ( A city called Porto)</a> from <a href="https://vimeo.com/filmesdamente">FilmesDaMente</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
 
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
@@ -100,15 +132,29 @@ body, html {
 
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-      <p> About my qualifications - I have a degree in Medical Computing and Instrumentation Engineering, one subfield of Biomedical Engineering, which gave me combined skills in engineering and health sciences. I had also the opportunity to study abroad as an erasmus student for a year in Poland and that experience offered me the chance to expand my soft skills in communication with different cultures and also allowed me to meet new horizons. <em>As we say, the sky is the limit!</em> I enjoyed so much the previous experience, that I decided to do it again, but this time in Slovenia, where I am currently living.
-      I consider myself a hard-working person and I never give up. I love to learn, and I can say that I am an autodidact. Some of my current challenges are learning how to program with web frameworks, such as angular or javascript, and lately how to play the piano and guitar by only hearing some songs. Oh, and my other hobbies: I love to travel and I do not mind to live abroad some few years more. Plus, I often play some online games such as league of legends, nfs, skyrim and PUBG.</p>
+      <p>Currently, I am working in a healthcare IT company as a Medical Informatics engineer where I'm work directly with the 
+        openEHR standard, analysis and process definition.<br>
+        As a background, I have a Bsc degree in Medical Computing and Instrumentation Engineering (ISEP - Engineering School, 
+        Politechnic of Porto), one subfield of Biomedical Engineering, which gave me combined skills in engineering and health 
+        sciences and a Msc in Medical informatics (FMUP - Faculty of Medicine, University of Porto). I had also the opportunity 
+        to study abroad as an erasmus student for one year in Poland and that experience offered me the chance to expand my soft 
+        skills in communication with different cultures and also allowed me to meet new horizons. <em>As we say, the sky is the limit!</em> 
+        I enjoyed so much the previous experience, that I decided to do it again, but in Slovenia for another year, where I was making an 
+        internship as medical informatics master student, which had as an outcome a thesis about the governance of local openEHR based 
+        repositories and their compliance with the openEHR CKM, along a small script to check that compliance that can be found at: 
+        <a href="http://mim-script-openehr.stackblitz.io">http://mim-script-openehr.stackblitz.io</a>.<br>
+        I consider myself a hard-working person and I never give up. I love to learn, and I can say that I am an autodidact. 
+        Some of my current challenges are learning how to program with web frameworks, such as angular or javascript, and 
+        lately how to play the piano and guitar by only hearing some songs. Oh, and my other hobbies: I love to travel and I 
+        do not mind to live abroad some few years more. Plus, I often play some online games such as league of legends, nfs, 
+        skyrim and PUBG - I am always waiting for new challenges!</p>
 
     </div>
   </div>
-  <p class="w3-large w3-center w3-padding-16">Im good at:</p>
+  <p class="w3-large w3-center w3-padding-16">I am good at:</p>
   <p class="w3-wide"><i class="fa fa-laptop"></i>Functional Analysis</p>
   <div class="w3-light-grey">
-    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:90%">90%</div>
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:85%">85%</div>
   </div>
   <p class="w3-wide"><i class="fa fa-laptop"></i>Functional Testing</p>
   <div class="w3-light-grey">
@@ -117,6 +163,14 @@ body, html {
   <p class="w3-wide"><i class="fa fa-laptop"></i>Software Engineering for health</p>
   <div class="w3-light-grey">
     <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:75%">75%</div>
+  </div>
+    <p class="w3-wide">🐿️</i>Whispering Red Squirrels</p>
+  <div class="w3-light-grey">
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:100%">100%</div>
+  </div>
+      <p class="w3-wide">🐱</i>"Babysitting" cute cats</p>
+  <div class="w3-light-grey">
+    <div class="w3-container w3-padding-small w3-dark-grey w3-center" style="width:100%">100%</div>
   </div>
 </div>
 
