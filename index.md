@@ -27,8 +27,15 @@ Currently I am working with various costumers from UK, France, Slovenia, Netherl
 
 ---
 
+### Publications
 
+- Pereira, V.,  Frade, S., Gomes, L., Vavpotič, T. and Cruz-Correia, R (2018) Governance of openEHR based local repository compliant with openEHR Clinical Knowledge Manager, Journal of Health Informatics - CBIS 2018 - XVI Congresso Brasileiro de Informática em Saúde. 
 
+---
+
+### CV
+
+- [Download CV] (http://vanessa-pereira.github.io/Vanessa_Pereira_CV.pdf/)
 
 ---
 
