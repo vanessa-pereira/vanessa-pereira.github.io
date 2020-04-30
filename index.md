@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Personal projects - open and free to use
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Archetypes in a local repository VS openEHR CKM complicance checker](/https://mim-script-openehr.stackblitz.io/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Open community efforts
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [openEHR COVID-19 assessment data models](http://example.com/)
+
+---
+
+### Profissional
+
+Currently I am working with various costumers from UK, France, Slovenia, Netherlands, Scotland and Portugal.
+
+- [Pathfinder](http://example.com/)
+- [Better Portal](http://example.com/)
+- [Eurotransplant](http://example.com/)
+- [Medtronic](http://example.com/)
+- [NHS UK](http://example.com/)
 
 ---
 
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
