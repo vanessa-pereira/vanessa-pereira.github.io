@@ -5,7 +5,7 @@
 ### Personal projects - open and free to use
 
 [Archetypes in a local repository VS openEHR CKM complicance checker](/https://mim-script-openehr.stackblitz.io/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
