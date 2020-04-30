@@ -33,7 +33,7 @@ Currently I am working with various costumers from UK, France, Slovenia, Netherl
 
 ---
 
-### CV
+### Curriculum Vitae
 
 - [Download CV](http://vanessa-pereira.github.io/Vanessa_Pereira_CV.pdf/)
 
