@@ -1,7 +1,7 @@
 title: Vanessa Pereira # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > 
-  3+ years working on electronic health records specifications and functional analysis, with international experience. Possess a MSc in Medical Informatics from the Faculty of Medicine of Porto and a BSc in Medical instrumentation and computer engineering.Currently working as health informatics engineer openEHR clinical data modeller at Better. 
+  3+ years working on electronic health records specifications and functional analysis, with international experience. I believe quality of data saves lifes and I fight for it everyday.<br> Possess a MSc in Medical Informatics from the Faculty of Medicine of Porto and a BSc in Medical instrumentation and computer engineering. <br> Currently working as health informatics engineer / openEHR clinical data modeller @ Better. 
   <br><br>
   "The most courageous act is still to think for yourself. Aloud."
   <br><br>
@@ -9,6 +9,5 @@ description: >
   <br>
   <a href="https://twitter.com/VanessapPT">View My Twitter Profile</a> 
   <br><br>
-  Quality of data saves lifes - I fight for it everyday.
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
