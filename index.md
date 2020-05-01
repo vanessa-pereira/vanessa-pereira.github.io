@@ -21,9 +21,9 @@ Currently I am working with various costumers from UK, France, Slovenia, Netherl
 
 - [Pathfinder](https://pathfinder.better.care/)
 - [Better Portal](https://portal.better.care/)
-- [Eurotransplant](http://example.com/)
-- [Medtronic](http://example.com/)
-- [NHS UK](http://example.com/)
+- [Eurotransplant]()
+- [Medtronic]()
+- [NHS UK]()
 
 ---
 
