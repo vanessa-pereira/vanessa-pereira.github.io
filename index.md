@@ -17,13 +17,14 @@
 
 ### Profissional
 
-Currently I am working with various costumers from UK, France, Slovenia, Netherlands, Scotland and Portugal.
+Currently I am working with various costumers from England, France, Slovenia, Netherlands, Brazil, Scotland and Portugal.
 
 - [Pathfinder](https://pathfinder.better.care/)
 - [Better Portal](https://portal.better.care/)
 - [Eurotransplant]()
 - [Medtronic]()
 - [NHS UK]()
+- [AI 4 COVID-19]()
 
 ---
 
