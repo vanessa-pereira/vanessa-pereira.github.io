@@ -11,7 +11,7 @@
 
 ### Open community efforts
 
-- [openEHR COVID-19 assessment data models](http://example.com/)
+- [openEHR COVID-19 assessment data models](https://ckm.openehr.org/ckm/templates/1013.26.286)
 
 ---
 
@@ -21,10 +21,9 @@ Currently I am working with various costumers from England, France, Slovenia, Ne
 
 - [Pathfinder](https://pathfinder.better.care/)
 - [Better Portal](https://portal.better.care/)
-- [Eurotransplant]()
+- [Eurotransplant](https://edith-project.eu/)
 - [Medtronic]()
 - [NHS UK]()
-- [AI 4 COVID-19]()
 
 ---
 
