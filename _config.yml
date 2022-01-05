@@ -1,13 +1,15 @@
 title: Vanessa Pereira # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > 
-  5+ years working on electronic health records specifications and functional analysis, with international experience. <br> Possess a MSc in Medical Informatics by <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=fmup">FMUP</a>. <br> Currently working as health informatics engineer / openEHR clinical data modeller @ <a href="https://www.better.care/">Better</a>. 
+  6+ years working on electronic health records specifications and functional analysis, with international experience. <br> Possess a MSc in Medical Informatics by <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=fmup">FMUP</a>. <br> Currently working as health informatics engineer / openEHR clinical data modeller @ <a href="https://www.better.care/">Better</a>. 
   <br><br>
   "The most courageous act is still to think for yourself. Aloud." - I believe quality and structured health data saves lifes. And I fight for it, everyday.
   <br><br>
   <a href="https://www.linkedin.com/in/vanessa-pereira-95b22949/">View My LinkedIn Profile</a> 
   <br>
   <a href="https://twitter.com/VanessapPT">View My Twitter Profile</a> 
+  <br>
+  <a href="...">FAQ</a> 
   <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
