@@ -22,6 +22,8 @@
 
 ### Profissional
 
+Stack I use in my daily basis:
+
 Currently I am working with various costumers from England, France, Slovenia, Netherlands, Brazil, Scotland, New Zealand and Portugal.
 
 *Products*
@@ -29,15 +31,16 @@ Currently I am working with various costumers from England, France, Slovenia, Ne
 - [Better Portal](https://portal.better.care/)
 
 *Projects*
-- [Acute congestive heart failure registry (ACHF)]()
-- [Remote monitorization of patients vital signs]()
-- [Eurotransplant](https://edith-project.eu/)
-- [Medtronic]() (Pancreas and colorectal registry)
-- [NHS UK]() (Allergies, Alerts, NEWS2, Labs, Nursing assessments)
-- [NHS NZ]() (Allergies)
-- [Cattedra (IT/SLO)]() (Pediatrics rheumatology registry)
-- [DaVita]() (Nephrology registry)
-- [OneLondon](https://www.onelondon.online)
+- [Acute congestive heart failure registry (ACHF) - SLO]()
+- [Remote monitorization of patients vital signs - SLO]()
+- [Eurotransplant - SLO, CR, UK](https://edith-project.eu/)
+- [Medtronic - FR]() (Pancreas and colorectal registry)
+- [NHS - UK]() (Allergies, Alerts, NEWS2, Labs, Nursing assessments, Clinician portal)
+- [NHS - NZ]() (Allergies)
+- [Cattedra - IT, SLO]() (Pediatrics rheumatology registry)
+- [DaVita - PT]() (Nephrology registry)
+- [End of life care planning - UK](https://www.accordhospice.org.uk/)
+- [OneLondon - UK](https://www.onelondon.online)
 
 ---
 
