@@ -5,7 +5,7 @@
 ### Personal projects - open and free to use
 
 *openEHR*
-- [Archetypes in a local repository VS openEHR CKM complicance checker](https://mim-script-openehr.stackblitz.io/)
+- [Archetypes in a local repository VS openEHR CKM compliance checker](https://mim-script-openehr.stackblitz.io/)
 - [Archetypes and templates that I have developed for use in various projects (some are in openEHR CKM)]()
 
 *FHIR*
