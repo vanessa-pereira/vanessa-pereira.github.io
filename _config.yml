@@ -1,15 +1,27 @@
-title: Vanessa Pereira # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > 
-  6+ years working on electronic health records specifications and functional analysis, with international experience. <br> Possess a MSc in Medical Informatics by <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=fmup">FMUP</a>. <br> Currently working as health informatics engineer / openEHR clinical data modeller @ <a href="https://www.better.care/">Better</a>. 
+title: Vanessa Pereira
+logo: /assets/img/logo.png
+description:
+  <br>
+  6+ years working on electronic health records specifications and functional analysis, with international experience. 
+  <br> Possess a MSc in Medical Informatics by <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=fmup">FMUP</a>. 
+  <br>
+  <br>Currently working as 
+  <br>- Digital health engineer @ <a href="https://www.lih.lu">Luxembourg Institute of Health</a>.
+  <br>- Consultant & clinical data modeller @ <a href="https://www.better.care/">Better</a>. 
   <br><br>
-  "The most courageous act is still to think for yourself. Aloud." - I believe quality and structured health data saves lifes. And I fight for it, everyday.
-  <br><br>
-  <a href="https://www.linkedin.com/in/vanessa-pereira-95b22949/">View My LinkedIn Profile</a> 
+  <blockquote>
+  "The most courageous act is still to think for yourself. Aloud."
+  </blockquote>
+  <br> 
+  I believe quality and well structured health data saves lifes. And I fight for it, everyday.
   <br>
-  <a href="https://twitter.com/VanessapPT">View My Twitter Profile</a> 
   <br>
-  <a href="...">FAQ</a> 
-  <br>
+cv:
+  url: https://github.com/vanessa-pereira/vanessa-pereira.github.io/blob/master/cv/Vanessa_Pereira_CV.pdf
+linkedin:
+  url: https://www.linkedin.com/in/vanessa-pereira-95b22949
+github:
+  repository_url: https://github.com/vanessa-pereira
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
