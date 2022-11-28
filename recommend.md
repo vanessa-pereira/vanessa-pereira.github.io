@@ -5,13 +5,35 @@ layout: default
 
 ## My setup and recommedations
 You might be asking why did I put this section here. Over the years I have been finding pretty good deals over the internet that might also be interesting for others - I really like these products and I am usually quite picky with what is a good quality product vs a reasonable price.
-_(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
 
 ### Working setup / software
-* link
-* link
-* link
-* link
+* [Magnet (macOS users)](https://apps.apple.com/us/app/magnet/id441258766?mt=12) window manager
+* [Mindmap Xmind](https://www.xmind.net/download/xmind)
+* [Visual Studio](https://code.visualstudio.com/)
+  * [CSV to JSON Converter](https://marketplace.visualstudio.com/items?itemName=Chukwuamaka.csvtojson-converter)
+  * [Edit CSV](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
+  * [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+  * [HL7 tools](https://marketplace.visualstudio.com/items?itemName=RobHolme.hl7tools) - great for parsing of HL7 msgs
+  * [Diff](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-diff)
+  * [JSON Pretty Printer](https://marketplace.visualstudio.com/items?itemName=euskadi31.json-pretty-printer)
+  * [JSON Parse and Stringify](https://marketplace.visualstudio.com/items?itemName=nextfaze.json-parse-stringify)
+  * [openEHR ADL & AQL support](https://marketplace.visualstudio.com/items?itemName=NedapHealthcare.openehr-adl-lsp)
+  * [openEHR AQL Language Support](https://marketplace.visualstudio.com/items?itemName=DIPSAS.aql)
+  * [XML tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+* For HL7/FHIR:
+  * [Simplifier](https://simplifier.net/)
+  * [clinFHIR Launcher](http://clinfhir.com/)
+  * [Hapi test panel](https://hapifhir.github.io/hapi-hl7v2/hapi-testpanel/)
+  * [opensource FHIR HAPI server](https://github.com/hapifhir/hapi-fhir-jpaserver-starter)
+  * [FHIR R4 Test server](https://hapi.fhir.org/baseR4/swagger-ui/)
+* For openEHR:
+  * [Mapper openEHR to FHIR](http://143.47.229.90:8080/openehr2fhir/)
+  * Repository of data models [International](https://ckm.openehr.org/ckm/), [UK](https://ckm.apperta.org/ckm/), [Germany](https://ckm.highmed.org/ckm/)
+  * [opensource openEHR server](https://github.com/ehrbase/ehrbase)
+  * [openEHR API overview](https://specifications.openehr.org/releases/ITS-REST/latest/ehr.html)
+* Others:
+  * [Amazon store price comparator](https://tropicalprice.com/)
+
 
 ### Working setup / hardware
 * Monitor light bar: [Amazon.es](https://amzn.to/3VBn5tf) or [Amazon.de](https://amzn.to/3VpzHne) (eyes savior)
@@ -31,7 +53,7 @@ These are some stuff i have discovered recently and made my work and relax time 
 #### Coffee
 Who survives without coffee...
 * Best nespresso capsules in my opinion: [Amazon.es](https://amzn.to/3OOt4bN) or [Amazon.de](https://amzn.to/3XF3nye)
-* Super cheap nespreso capsule - I was impress by the soft cherry alike taste: [Amazon.es](https://amzn.to/3F9ho0g)
+* Super cheap nespreso capsule: I was impress by the soft cherry alike taste [Amazon.es](https://amzn.to/3F9ho0g) or chocolate [Amazon.es](https://amzn.to/3F7GQDf) - for lattes, 10 cent a pod it's a pretty good deal.
 * The best coffee you will ever have: [Amazon.es](https://amzn.to/3GPqxfo) or [Amazon.de](https://amzn.to/3VccIw9) (Portuguese brand) 
 * Coffee machine: [Amazon.es](https://amzn.to/3u3Bl1V) or [Amazon.de](https://amzn.to/3EJ3ksJ)
 * Coffee grinder: [Amazon.es](https://amzn.to/3AKIXdB) or [Amazon.de](https://amzn.to/3GQitLq)
@@ -48,7 +70,7 @@ I had a realy bad period with severe acne where I had to take some medicine for 
 * For teeth alignment, here's a 300eur discount @ Impress: https://smile2impress.com/pt/special/referral/?code=UM9-4UO-SFO&referral_source=mobile
 
 
-_yay_
+_(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
 
 
 [Back to main page](./)
