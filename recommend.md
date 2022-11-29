@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| [About me](./about_me.html) | [Consulting](./certs.html) | [**My setup and recommedations**](./recommend.html) | [Contact](./contact.html)|
+| [About me](./about_me.html) | [Consulting/Docs](./certs.html) | [**My setup and recommedations**](./recommend.html) | [Contact](./contact.html)|
 
 ## My setup and recommedations
 You might be asking why did I put this section here. Over the years I have been finding pretty good deals over the internet that might also be interesting for others - I really like these products and I am usually quite picky with what is a good quality product vs a reasonable price.
@@ -67,7 +67,7 @@ I had a realy bad period with severe acne where I had to take some medicine for 
 * Lip balm:  [Amazon.es](https://amzn.to/3QGFvGr) or [Amazon.de](https://amzn.to/3pl6GLi)
 * Hand sanitizer Dove: [Amazon.es](https://amzn.to/3QGGUgb)
 * Aesop hands cleaner spray: [Amazon.es](https://amzn.to/3zXfxrx) or [Amazon.de](https://amzn.to/3SQfhTK)
-* For teeth alignment, here's a 300eur discount @ Impress: https://smile2impress.com/pt/special/referral/?code=UM9-4UO-SFO&referral_source=mobile
+* For teeth alignment, here's a 300eur discount @ [Impress](https://smile2impress.com/pt/special/referral/?code=UM9-4UO-SFO&referral_source=mobile), they are really good, and have great prices, I was pretty _impressed._ 
 
 
 _(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
