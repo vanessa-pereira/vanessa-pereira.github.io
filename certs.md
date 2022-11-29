@@ -35,4 +35,12 @@ I have been doing some certifications over the last years in the healthcare IT a
 
 All certs can be found on my [Linkedin page](https://www.linkedin.com/in/vanessa-pereira-95b22949).
 
+
+## Membership
+* Associate member - [HL7 Portugal Affiliate](https://www.hl7.pt/)
+* Associate member - [openEHR Portugal Affiliate](https://www.e-mais.pt/openehr/)
+* Individual Member - [openEHR international](https://www.openehr.org/)
+* Associate member - [E-Mais](https://www.e-mais.pt/) (Portuguese health information systems association)
+
+
 [**Back to main page**](./)
