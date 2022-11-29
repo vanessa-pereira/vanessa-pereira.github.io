@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [About me](./about_me.html) | [Consulting](./certs.html) | [My setup and recommedations](./recommend.html) | [Contact](./contact.html)|
+| [About me](./about_me.html) | [Consulting/Docs](./certs.html) | [My setup and recommedations](./recommend.html) | [Contact](./contact.html)|
 
 
 # Portfolio
@@ -32,11 +32,12 @@ The content and tool available in the following links are open and free to use. 
 
 Currently I am working with various costumers from England, France, Slovenia, Netherlands, Brazil, Scotland, New Zealand and Portugal.
 
-Stack I develop and use in my daily basis:
+Stack I develop/consult and use in my daily basis:
 
 *Products*
-- [Pathfinder](https://pathfinder.better.care/) (2017-2021)
-- [Better Portal](https://portal.better.care/) (2018-2021)
+- [Pathfinder](https://pathfinder.better.care/) (2016-2022)
+- [Better Portal](https://portal.better.care/) (2018-2022)
+- [Better Platform/Studio](https://better.care/better-platform/) (2016-2022)
 - [ADL Designer]() (2016-present)
 
 
