@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| [About me](./about_me.html) | [Consulting/Docs](./certs.html) | [**My setup and recommedations**](./recommend.html) | [Contact](./contact.html)|
+|[About me](./about_me.html)|[Consulting/Docs](./certs.html)|[**My setup&recommedations**](./recommend.html)|[Contact](./contact.html)|
 
 ## My setup and recommedations
 You might be asking why did I put this section here. Over the years I have been finding pretty good deals over the internet that might also be interesting for others - I really like these products and I am usually quite picky with what is a good quality product vs a reasonable price.
