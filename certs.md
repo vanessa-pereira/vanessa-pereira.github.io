@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-| [Main page](./) | [**Consulting**](./certs.html) | [My setup and recommedations](./recommend.html) | [Contact](./contact.html)|
+|[Main page](./)|[**Consulting/Docs**](./certs.html)|[Setup&recommedations](./recommend.html)|[Contact](./contact.html)|
+
+## Docs
+Since I believe that information should be available for free to everyone here are some presentations I have been doing over the last years in the health informatics area.
+
+
+I am also starting some tutorials on openEHR modelling, building archetypes and recording them so its possible to see what in fact needs to be done. I have done an [Youtube channel with an openEHR playlist](https://www.youtube.com/playlist?list=PLdIPeFiGMx2gNCRDHB1fwjRU8ZMXsiblg) with a section for it, I will try to post a 1-2 videos per month. If you subscribe I would also appreciate that.
 
 
 ## Consulting
