@@ -62,8 +62,3 @@ Stack I develop/consult and use in my daily basis:
 
 ---
 
-### Curriculum Vitae
-
-- [Download CV](http://vanessa-pereira.github.io/Vanessa_Pereira_CV.pdf/)
-
----
