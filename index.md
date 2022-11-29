@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [About me](./about_me.html) | [Consulting/Docs](./certs.html) | [My setup and recommedations](./recommend.html) | [Contact](./contact.html)|
+| [About me](./about_me.html) | [Consulting/Docs](./certs.html) | [My setup & recommedations](./recommend.html) | [Contact](./contact.html)|
 
 
 # Portfolio
