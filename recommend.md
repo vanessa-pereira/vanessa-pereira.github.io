@@ -73,4 +73,4 @@ I had a realy bad period with severe acne where I had to take some medicine for 
 _(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
 
 
-[Back to main page](./)
+[**Back to main page**](./)
