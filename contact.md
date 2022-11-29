@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-|[Main page](./)|[Consulting&Docs](./certs.html)|[Setup&recommedations](./recommend.html)|[**Contact**](./contact.html)|
+|[Main page](./)|[Consulting&Docs](./certs.html)|[Setup&Recommedations](./recommend.html)|[**Contact**](./contact.html)|
 
 ## Contact me
 The best way to contact me is by [email](mailto:vanessapw@protonmail.com).
