@@ -4,7 +4,7 @@ layout: default
 |[About me](./about_me.html)|[Consulting&Docs](./certs.html)|[**Setup&Recommedations**](./recommend.html)|[Contact](./contact.html)|
 
 ## My setup and recommedations
-You might be asking why did I put this section here. Over the years I have been finding pretty good deals over the internet that might also be interesting for others - I really like these products and I am usually quite picky with what is a good quality product vs a reasonable price.
+You might be asking why did I put this section here. Over the years I have been finding pretty good apps and deals over the internet that might also be interesting for others - I really like these products and I am usually quite picky with what is a good quality product vs a reasonable price.
 
 ### Working setup / software
 * [Magnet (macOS users)](https://apps.apple.com/us/app/magnet/id441258766?mt=12) window manager
@@ -29,6 +29,8 @@ You might be asking why did I put this section here. Over the years I have been 
 * For openEHR:
   * [Mapper openEHR to FHIR](http://143.47.229.90:8080/openehr2fhir/)
   * Repository of data models [International](https://ckm.openehr.org/ckm/), [UK](https://ckm.apperta.org/ckm/), [Germany](https://ckm.highmed.org/ckm/)
+  * modelling tool: webapp [ADL designer](https://tools.openehr.org/designer) - I personally use this one the most
+  * modelling tool: desktop [linkehr (win and linux)](https://linkehr.veratech.es/getlinkehr.html), [ocean archetype designer (win)](https://oceanhealthsystems.com/software/archetype-editor), [ocean template designer (win)](https://oceanhealthsystems.com/software/template-designer)
   * [opensource openEHR server](https://github.com/ehrbase/ehrbase)
   * [openEHR API overview](https://specifications.openehr.org/releases/ITS-REST/latest/ehr.html)
 * Others:
