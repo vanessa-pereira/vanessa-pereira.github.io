@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
+
+
 |[**About me**](./about_me.html)|[Consulting&Docs](./certs.html)|[Setup&Recommedations](./recommend.html)|[Contact](./contact.html)|
+
 ## About me
 
 _Hey there!_
