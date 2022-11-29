@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-|[Main page](./)|[**Consulting/Docs**](./certs.html)|[Setup&recommedations](./recommend.html)|[Contact](./contact.html)|
+|[Main page](./)|[**Consulting&Docs**](./certs.html)|[Setup&recommedations](./recommend.html)|[Contact](./contact.html)|
 
 ## Docs
 Since I believe that information should be available for free to everyone here are some presentations I have been doing over the last years in the health informatics area.
