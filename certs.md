@@ -32,4 +32,4 @@ I have been doing some certifications over the last years in the healthcare IT a
 
 All certs can be found on my [Linkedin page](https://www.linkedin.com/in/vanessa-pereira-95b22949).
 
-[Back to main page](./)
+[**Back to main page**](./)
