@@ -43,7 +43,8 @@ You might be asking why did I put this section here. Over the years I have been 
 * Small keyboard for work/gaming: [Amazon.es](https://amzn.to/3SOlKyz) (I use it on mac, pc, ipad and ps4 without issues)
 * Mouse: [Amazon.es](https://amzn.to/3YthlTY) although indicated for gaming, I use it for work too and its amazing, I even prefer it over the mx3 master.
 * Good noise cancelling headphones: [Amazon.es](https://amzn.to/3XwC48a) (great for plane trips if you have headaches)
-
+* Basic 24' monitor with usb-c charger, Full HD 1920 x 1080, 75 Hz: [Amazon.es](https://amzn.to/3IjMgwx)
+* Work/gaming 34' monitor with hdmi and displayport, 3440 x 1440, 144hz: [Amazon.es](https://amzn.to/3YJ47lR)
 
 
 ### Overall stuff recommendations
@@ -53,6 +54,7 @@ You might be asking why did put this section here. Over the years I have been fi
 These are some stuff i have discovered recently and made my work and relax time more confortable. I hope you can enjoy them too.
 * Feet warmer usb: [Amazon.es](https://amzn.to/3IgUsfV) (this is so good for winter, every year I buy one. If you WFM, just put it on your shoes or slippers and it mantains your foot warm all day)
 * Massage cushion with heat: [Amazon.es](https://amzn.to/3YKOpXr) (helps a lot with backpain)
+* Dehumidifier: [Amazon.es](https:///amzn.to/3Yrv0Lr), you can control it with your phone and do schedules, consumes less than 190w/h in max mode. Usually these things consume more than 400w/h..
 
 #### Coffee
 Who survives without coffee...
@@ -78,7 +80,7 @@ If you need a bluetooth connection to reproduce music from your phone from apps 
 * LDAC Receptor Bluetooth (DAC USB to 3,5 mm): [Amazon.es](https://amzn.to/3KbHItc)
 * Anker USB charger to car suply (24 W, 4,8 A, USB 2x): [Amazon.es]( https://amzn.to/3Xs62Ko)
 
-_(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
+_(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :) You can also send me a message on my [social media links](https://linktr.ee/vanessapPT) if you have any question about these products since I own them all and can anwser your doubts!)_
 
 
 [**Back to main page**](./)
