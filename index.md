@@ -58,7 +58,7 @@ Stack I develop/consult and use in my daily basis:
 
 ### Publications
 
-- Pereira, V.,  Frade, S., Gomes, L., Vavpotič, T. and Cruz-Correia, R (2018) Governance of openEHR based local repository compliant with openEHR Clinical Knowledge Manager, Journal of Health Informatics - CBIS 2018 - XVI Congresso Brasileiro de Informática em Saúde. 
+- Pereira, V.,  Frade, S., Gomes, L., Vavpotič, T. and Cruz-Correia, R (2018) [Governance of openEHR based local repository compliant with openEHR Clinical Knowledge Manager, Journal of Health Informatics](https://github.com/vanessa-pereira/CBIS2018/blob/master/ArticleSBIS_final_v2.pdf) - CBIS 2018 - XVI Congresso Brasileiro de Informática em Saúde. 
 
 ---
 
