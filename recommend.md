@@ -38,10 +38,16 @@ You might be asking why did I put this section here. Over the years I have been 
 
 
 ### Working setup / hardware
-* Monitor light bar: [Amazon.es](https://amzn.to/3VBn5tf) or [Amazon.de](https://amzn.to/3VpzHne) (eyes savior)
-* Sound speakers with BT: [Amazon.es](https://amzn.to/3ARo00F) or [Amazon.de](https://amzn.to/3gIglLc) (amazing quality for the price)
-* Small keyboard for work/gaming: [Amazon.es](https://amzn.to/3SOlKyz) or [Amazon.de](https://amzn.to/3Qq0VId) (I use it on mac, pc, ipad and ps4 without issues)
-* Good noise cancelling headphones: [Amazon.es](https://amzn.to/3w4mEwS) or [Amazon.de](https://amzn.to/3C74COE) (great for plane trips if you have headaches)
+* Monitor light bar: [Amazon.es](https://amzn.to/3IjILG9), such a eyes saviour, 10/10 recommended
+* Sound speakers with BT: [Amazon.es](https://amzn.to/3HYi4pm) (amazing quality for the price)
+* Small keyboard for work/gaming: [Amazon.es](https://amzn.to/3SOlKyz) (I use it on mac, pc, ipad and ps4 without issues)
+* Mouse: [Amazon.es](https://amzn.to/3YthlTY) although indicated for gaming, I use it for work too and its amazing, I even prefer it over the mx3 master.
+* Good noise cancelling headphones: [Amazon.es](https://amzn.to/3XwC48a) (great for plane trips if you have headaches)
+
+### Car stuff
+if you need a bluetooth connection to reproduce music from your phone from apps such as spotify, apple music, youtube... I use the following combo and works great:
+* LDAC Receptor Bluetooth (DAC USB to 3,5 mm): [Amazon.es](https://amzn.to/3KbHItc)
+* Anker USB charger to car suply (24 W, 4,8 A, USB 2x): [Amazon.es]( https://amzn.to/3Xs62Ko)
 
 
 ### Overall stuff recommendations
@@ -49,28 +55,27 @@ You might be asking why did put this section here. Over the years I have been fi
 
 #### Home stuff
 These are some stuff i have discovered recently and made my work and relax time more confortable. I hope you can enjoy them too.
-* Feet warmer usb: [Amazon.es](https://amzn.to/3GLAryO) or [Amazon.de](https://amzn.to/3OGxmC0) (this is so good for winter, every year I buy one. If you WFM, just put it on your shoes or slippers and it mantains your foot warm all day)
-* Massage cushion with heat: [Amazon.es](https://amzn.to/3gFWDzD) or [Amazon.de](https://amzn.to/3F6RWs9) (helps a lot with backpain)
+* Feet warmer usb: [Amazon.es](https://amzn.to/3IgUsfV) (this is so good for winter, every year I buy one. If you WFM, just put it on your shoes or slippers and it mantains your foot warm all day)
+* Massage cushion with heat: [Amazon.es](https://amzn.to/3YKOpXr) (helps a lot with backpain)
 
 #### Coffee
 Who survives without coffee...
-* Best nespresso capsules in my opinion: [Amazon.es](https://amzn.to/3OOt4bN) or [Amazon.de](https://amzn.to/3XF3nye)
-* Super cheap nespreso capsule: I was impress by the soft cherry alike taste [Amazon.es](https://amzn.to/3F9ho0g) or chocolate [Amazon.es](https://amzn.to/3F7GQDf) - for lattes, 10 cent a pod it's a pretty good deal.
-* The best coffee you will ever have: [Amazon.es](https://amzn.to/3GPqxfo) or [Amazon.de](https://amzn.to/3VccIw9) (Portuguese brand) 
-* Coffee machine: [Amazon.es](https://amzn.to/3u3Bl1V) or [Amazon.de](https://amzn.to/3EJ3ksJ)
-* Coffee grinder: [Amazon.es](https://amzn.to/3AKIXdB) or [Amazon.de](https://amzn.to/3GQitLq)
+* Best nespresso capsules in my opinion: [Amazon.es](https://amzn.to/3OOt4bN)
+* Super cheap nespreso capsule: I was impress by the soft cherry alike taste [Amazon.es](https://amzn.to/3E3Tan2) or chocolate [Amazon.es](https://amzn.to/3jMh0wR) - for lattes, 10-13 cent a pod it's a pretty good deal.
+* The best coffee you will ever have, totally worth a try: [Amazon.es](https://amzn.to/3RWs8nl) (Portuguese brand) 
+* Coffee machine: [Amazon.es](https://amzn.to/3xiap05)
+* Coffee grinder: [Amazon.es](https://amzn.to/3HXe8F7)
 
 #### Skin and overall body care
 I had a realy bad period with severe acne where I had to take some medicine for a long period of time. The junction of these products below helped removing all the scars and I still use them every day. They are way cheaper on amazon comparing with pharmacies.
-* Facial sun protector:  [Amazon.es](https://amzn.to/3T1RjVM) or [Amazon.de](https://amzn.to/3STplvl)
-* Vitamin C serum: [Amazon.es](https://amzn.to/3QsaLJr) or [Amazon.de](https://amzn.to/3bQO2I9)
-* Facial moisturiser: [Amazon.es](https://amzn.to/3zP9Yv6) or [Amazon.de](https://amzn.to/3C59FyY)
-* Aqual gel cleaner: [Amazon.es](https://amzn.to/3BdlmTd) or [Amazon.de](https://amzn.to/3GM0YMp)
-* Lip balm:  [Amazon.es](https://amzn.to/3QGFvGr) or [Amazon.de](https://amzn.to/3pl6GLi)
-* Hand sanitizer Dove: [Amazon.es](https://amzn.to/3QGGUgb)
-* Aesop hands cleaner spray: [Amazon.es](https://amzn.to/3zXfxrx) or [Amazon.de](https://amzn.to/3SQfhTK)
+* Facial sun protector: [Amazon.es](https://amzn.to/3IjgMq9)
+* Vitamin C serum: [Amazon.es](https://amzn.to/3DZpTtC)
+* Facial moisturiser: [Amazon.es](https://amzn.to/3Ynry4m)
+* Aqual gel cleaner: [Amazon.es](https://amzn.to/3lxxiKr)
+* Lip balm: [Amazon.es](https://amzn.to/3XqQR4j)
+* Hand sanitizer Dove: [Amazon.es](https://amzn.to/3jTAhfH)
+* Hand cream Grown alchemist: [Amazon.es](https://amzn.to/3lraqMt)
 * For teeth alignment, here's a 300eur discount @ [Impress](https://smile2impress.com/pt/special/referral/?code=UM9-4UO-SFO&referral_source=mobile), they are really good, and have great prices, I was pretty _impressed._ 
-
 
 _(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
 
