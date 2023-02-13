@@ -44,10 +44,6 @@ You might be asking why did I put this section here. Over the years I have been 
 * Mouse: [Amazon.es](https://amzn.to/3YthlTY) although indicated for gaming, I use it for work too and its amazing, I even prefer it over the mx3 master.
 * Good noise cancelling headphones: [Amazon.es](https://amzn.to/3XwC48a) (great for plane trips if you have headaches)
 
-### Car stuff
-if you need a bluetooth connection to reproduce music from your phone from apps such as spotify, apple music, youtube... I use the following combo and works great:
-* LDAC Receptor Bluetooth (DAC USB to 3,5 mm): [Amazon.es](https://amzn.to/3KbHItc)
-* Anker USB charger to car suply (24 W, 4,8 A, USB 2x): [Amazon.es]( https://amzn.to/3Xs62Ko)
 
 
 ### Overall stuff recommendations
@@ -76,6 +72,11 @@ I had a realy bad period with severe acne where I had to take some medicine for 
 * Hand sanitizer Dove: [Amazon.es](https://amzn.to/3jTAhfH)
 * Hand cream Grown alchemist: [Amazon.es](https://amzn.to/3lraqMt)
 * For teeth alignment, here's a 300eur discount @ [Impress](https://smile2impress.com/pt/special/referral/?code=UM9-4UO-SFO&referral_source=mobile), they are really good, and have great prices, I was pretty _impressed._ 
+
+#### Car stuff
+If you need a bluetooth connection to reproduce music from your phone from apps such as spotify, apple music, youtube... I use the following combo and works great:
+* LDAC Receptor Bluetooth (DAC USB to 3,5 mm): [Amazon.es](https://amzn.to/3KbHItc)
+* Anker USB charger to car suply (24 W, 4,8 A, USB 2x): [Amazon.es]( https://amzn.to/3Xs62Ko)
 
 _(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :D )_
 
