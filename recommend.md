@@ -47,7 +47,7 @@ You might be asking why did I put this section here. Over the years I have been 
 * Work/gaming 34' monitor with hdmi and displayport, 3440 x 1440, 144hz: [Amazon.es](https://amzn.to/3YJ47lR)
 
 
-### Overall stuff recommendations
+### Overall stuff recommendations - mostly Amazon [(get Amazon prime free for 30 days here)](http://www.amazon.es/pruebaprime?tag=vp170b0-21)
 You might be asking why did put this section here. Over the years I have been finding pretty good deals in the internet that might also be interested for others. Some friends have also mentioned that some of the things I have found or used are great for a daily use and that I should put them somewhere for other people know about it too. So here it is! You can find some of these in the following links. This section can be pretty random, can go from tech stuff to homie stuff or even skin care :)
 
 #### Home stuff
@@ -78,9 +78,16 @@ I had a realy bad period with severe acne where I had to take some medicine for 
 #### Car stuff
 If you need a bluetooth connection to reproduce music from your phone from apps such as spotify, apple music, youtube... I use the following combo and works great:
 * LDAC Receptor Bluetooth (DAC USB to 3,5 mm): [Amazon.es](https://amzn.to/3KbHItc)
-* Anker USB charger to car suply (24 W, 4,8 A, USB 2x): [Amazon.es]( https://amzn.to/3Xs62Ko)
+* Anker USB charger to car suply (24 W, 4,8 A, USB 2x): [Amazon.es](https://amzn.to/3Xs62Ko)
 
-_(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you :) You can also send me a message on my [social media links](https://linktr.ee/vanessapPT) if you have any question about these products since I own them all and can anwser your doubts!)_
+### Wanna try out some Amazon services for 1 or more months for free?
+Here some links:
+* [Amazon video](https://www.primevideo.com/?tag=vp170b0-21) (similar to netflix) 
+* [Amazon music](https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=vp170b0-21) (similar to spotify)
+* [Amazon prime](http://www.amazon.es/pruebaprime?tag=vp170b0-21) (free shipping and access to prime gaming)
+* [Amazon student](http://www.amazon.es/joinstudent?tag=vp170b0-21) (if you are a student you can get all above for 3 months free and then you pay for all 18eur/year or 1.5eur/month)
+
+_(Note: I have affiliation with Amazon, so it would be pretty cool for me if you could use some of these links, I can get a few bucks at no cost for you and you can also get these promos :) You can also send me a message on my [social media links](https://linktr.ee/vanessapPT) if you have any question about these products since I own them all and can anwser your doubts!)_
 
 
 [**Back to main page**](./)
