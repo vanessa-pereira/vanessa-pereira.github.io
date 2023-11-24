@@ -10,7 +10,7 @@ layout: default
 
 
 ### Personal projects - open and free to use
-The content and tool available in the following links are open and free to use. You can use it as you need.
+The content and tools available in the following links are open and free to use. You can use it as you need.
 
 *openEHR*
 - [Archetypes in a local repository VS openEHR CKM compliance checker](https://mim-script-openehr.stackblitz.io/) (2018)
@@ -18,6 +18,9 @@ The content and tool available in the following links are open and free to use. 
 
 *HL7 FHIR*
 - In progress, more news soon.
+
+*SNOMED-CT*
+- SCTIDs Checker (In progress, more news soon.)
 
 ---
 
@@ -30,7 +33,7 @@ The content and tool available in the following links are open and free to use. 
 
 ### Profissional
 
-Currently I am working with various costumers from England, France, Slovenia, Netherlands, Brazil, Scotland, New Zealand and Portugal.
+Currently I am working with various costumers from England, France, Luxembourg, Germany, Slovenia, Netherlands, Brazil, Scotland, New Zealand and Portugal.
 
 Stack I develop/consult and use in my daily basis:
 
@@ -42,6 +45,9 @@ Stack I develop/consult and use in my daily basis:
 
 
 *Projects*
+- [Clinnova - Luxembourg](https://clinnova.lu/)
+- [NCER-PD - Luxembourg](https://www.parkinson.lu/) - Parkinson Disease
+- [RNC - Luxembourg](https://www.rnc.lu/) - Cancer National Registry
 - [Acute congestive heart failure registry (ACHF) - Slovenia]()
 - [Remote monitorization of patients vital signs - Slovenia]()
 - [Pathfinder Eurotransplant - Slovenia, Croatia, United Kingdom](https://edith-project.eu/) / Kidney and Liver transplants registry
@@ -52,7 +58,7 @@ Stack I develop/consult and use in my daily basis:
 - [DaVita - Portugal]() / Nephrology registry
 - [End of life care planning - United Kingdom](https://www.accordhospice.org.uk/)
 - [OneLondon - United Kingdom](https://www.onelondon.online)
-- [Clinnova - Luxembourg](https://clinnova.lu/)
+
 
 ---
 
